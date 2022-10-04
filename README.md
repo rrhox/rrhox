@@ -2,24 +2,48 @@ Hello there 👋🚀
 
 [website](https://portfolio-ubqsb.ondigitalocean.app/)
 
-
-| Frontend      | Backend       | Frameworks & Libraries | Database     | Architectures & Design pattern     |
-| ------------- | ------------- | ---------------------- | -------------| ---------------------------------- |
-| Html          | Node          | Scss                   | PostgreSql   | DDD (Domain Driven Design)         |
-| Css           | Deno          | Styled components      | MongoDB      | Hexagonal Architecture             |
-| Javascript    | Typescript    | React                  | Redis        | Atomic Design                      |
-| Typescript    | Python        | React Native           |              | OOP                                |
-| GraphQL       | Php           | Angular > v6           |              | Functional programming             |
-|               | Docker        | Svelte                 |              | S.O.L.I.D                          |
-|               | GraphQL       | NestJS                 |              | CQRS                               |
-| |                             | ExpressJS              |              | Event sourcing                     |
-| |                             | Laravel                | | 
-| |                             | Rxjs                   | | 
-| |                             | Flask                  | | 
-| |                             | GatsbyJS               | | 
-| |                             | Typeorm                | | 
-| |                             | Mongoose               | | 
-| |                             | Apollo client          | | 
-| |                             | Apollo server          | | 
-| |                             | Redux                  | | 
+| Frontend      | Frameworks & Libraries |  
+| ------------- | ---------------------- |  
+| Html          | Scss                   |  
+| Css           | Styled components      | 
+| Javascript    | React                  | 
+| GraphQL       | React Native           | 
+|               | Typescript             | 
+|               | Svelte                 | 
+|               | Redux                  | 
+|               | Apollo client          |
+|               | GatsbyJS               |  
+|               | Rxjs                   |  
+|               | Angular > v6           |  
  
+ 
+| Backend       | Frameworks & Libraries |  
+| ------------- | ---------------------- | 
+| Node          | NestJS                 |  
+| Deno          | ExpressJS              |  
+| GraphQL       | Rxjs                   |  
+| Python        | Laravel                |  
+| Php           | Flask                  |  
+| Docker        | Apollo server          |     
+|               | Typescript             |             
+ 
+ 
+| Database     | Frameworks & Libraries  |
+| -------------| ----------------------- |
+| PostgreSql   | Mongoose                |
+| MongoDB      | Typeorm                 |
+| Redis        | Sequalize               |
+|              | Eloquent                |
+|              | Prisma                  |
+
+
+| Architectures & Design pattern     |
+| ---------------------------------- |
+| DDD (Domain Driven Design)         |
+| Hexagonal Architecture             |
+| Atomic Design                      |
+| OOP                                |
+| Functional programming             |
+| S.O.L.I.D                          |
+| CQRS                               |
+| Event sourcing                     |
