@@ -1,49 +1,64 @@
 Hello there 👋🚀
 
-[website](https://portfolio-ubqsb.ondigitalocean.app/)
+[Go to website](https://portfolio-ubqsb.ondigitalocean.app/)
 
-| Frontend      | Frameworks & Libraries |  
-| ------------- | ---------------------- |  
-| Html          | Scss                   |  
-| Css           | Styled components      | 
-| Javascript    | React                  | 
-| GraphQL       | React Native           | 
-|               | Typescript             | 
-|               | Svelte                 | 
-|               | Redux                  | 
-|               | Apollo client          |
-|               | GatsbyJS               |  
-|               | Rxjs                   |  
-|               | Angular > v6           |  
- 
- 
-| Backend       | Frameworks & Libraries |  
-| ------------- | ---------------------- | 
-| Node          | NestJS                 |  
-| Deno          | ExpressJS              |  
-| GraphQL       | Rxjs                   |  
-| Python        | Laravel                |  
-| Php           | Flask                  |  
-| Docker        | Apollo server          |     
-|               | Typescript             |             
- 
- 
-| Database     | ORM                     |
-| -------------| ----------------------- |
-| PostgreSql   | Mongoose                |
-| MongoDB      | Typeorm                 |
-| Redis        | Sequalize               |
-|              | Eloquent                |
-|              | Prisma                  |
+------
 
+ ❤️
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" width="40px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px" width="40px"/>
+</p>
 
-| Architectures & Design pattern     |
-| ---------------------------------- |
-| DDD (Domain Driven Design)         |
-| Hexagonal Architecture             |
-| Atomic Design                      |
-| OOP                                |
-| Functional programming             |
-| S.O.L.I.D                          |
-| CQRS                               |
-| Event sourcing                     |
+------
+          
+```javascript
+const rrhox = {
+  frontend: {
+    main: ["Html", "Css", "Javascript", "Typescript", "GraphQL"],
+    tools: [
+      "React",
+      "React Native",
+      "Redux",
+      "Angular",
+      "Svelte",
+      "Storybook",
+      "Styled-Components",
+      "Jest",
+      "GatsbyJS",
+      "Scss",
+      "Apollo client",
+    ],
+  },
+  backend: {
+    main: ["Node", "Deno", "GraphQL", "Python", "Php", "Docker"],
+    tools: [
+      "NestJS",
+      "ExpressJS",
+      "Rxjs",
+      "Laravel",
+      "Flask",
+      "Apollo server",
+      "Typescript",
+      "Jest",
+    ],
+  },
+  database: {
+    main: ["PostgreSql", "MongoDb", "Redis"],
+    orm: ["Mongoose", "Typeorm", "Sequalize", "Eloquent", "Prisma"],
+  },
+  architectureAndPatterns: [
+    "DDD (Domain Driven Design)",
+    "Hexagonal Architecture",
+    "Microservices",
+    "Event-driven",
+    "Functional programming",
+    "OOP",
+    "Atomic Design",
+    "S.O.L.I.D",
+    "CQRS",
+  ],
+};
+```
