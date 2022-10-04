@@ -9,9 +9,9 @@ Hello there 👋🚀
 | Css           | Deno          | Styled components      | MongoDB      | Hexagonal Architecture             |
 | Javascript    | Typescript    | React                  | Redis        | Atomic Design                      |
 | Typescript    | Python        | React Native           |              | OOP                                |
-|               | Php           | Angular > v6           |              | Functional programming             |
+| GraphQl       | Php           | Angular > v6           |              | Functional programming             |
 |               | Docker        | Svelte                 |              | S.O.L.I.D                          |
-| |                             | NestJS                 |              | CQRS                               |
+|               | GraphQl       | NestJS                 |              | CQRS                               |
 | |                             | ExpressJS              |              | Event sourcing                     |
 | |                             | Laravel                | | 
 | |                             | Rxjs                   | | 
@@ -19,4 +19,7 @@ Hello there 👋🚀
 | |                             | GatsbyJS               | | 
 | |                             | Typeorm                | | 
 | |                             | Mongoose               | | 
+| |                             | Apollo client          | | 
+| |                             | Apollo server          | | 
+| |                             | Redux                  | | 
  
