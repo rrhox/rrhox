@@ -6,7 +6,7 @@ Hello there 👋🚀
 | Frontend      | Backend       | Frameworks & Libraries | Database     | Architectures & Design pattern     |
 | ------------- | ------------- | ---------------------- | -------------| ---------------------------------- |
 | Html          | Node          | Scss                   | PostgreSql   | DDD (Domain Driven Design)         |
-| Css           | Deno          | Styled compoent        | MongoDB      | Hexagonal Architecture             |
+| Css           | Deno          | Styled components      | MongoDB      | Hexagonal Architecture             |
 | Javascript    | Typescript    | React                  | Redis        | Atomic Design                      |
 | Typescript    | Python        | React Native           |              | OOP                                |
 |               | Php           | Angular > v6           |              | Functional programming             |
