@@ -28,7 +28,7 @@ Hello there 👋🚀
 |               | Typescript             |             
  
  
-| Database     | Frameworks & Libraries  |
+| Database     | ORM                     |
 | -------------| ----------------------- |
 | PostgreSql   | Mongoose                |
 | MongoDB      | Typeorm                 |
