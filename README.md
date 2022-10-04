@@ -14,11 +14,11 @@ Hello there 👋🚀
 
 ------
           
-```javascript
-const rrhox = {
-  frontend: {
-    main: ["Html", "Css", "Javascript", "Typescript", "GraphQL"],
-    tools: [
+```json
+{
+  "frontend": {
+    "main": ["Html", "Css", "Javascript", "Typescript", "GraphQL"],
+    "tools": [
       "React",
       "React Native",
       "Redux",
@@ -29,12 +29,12 @@ const rrhox = {
       "Jest",
       "GatsbyJS",
       "Scss",
-      "Apollo client",
-    ],
+      "Apollo client"
+    ]
   },
-  backend: {
-    main: ["Node", "Deno", "GraphQL", "Python", "Php", "Docker"],
-    tools: [
+  "backend": {
+    "main": ["Node", "Deno", "GraphQL", "Python", "Php", "Docker"],
+    "tools": [
       "NestJS",
       "ExpressJS",
       "Rxjs",
@@ -42,14 +42,14 @@ const rrhox = {
       "Flask",
       "Apollo server",
       "Typescript",
-      "Jest",
-    ],
+      "Jest"
+    ]
   },
-  database: {
-    main: ["PostgreSql", "MongoDb", "Redis"],
-    orm: ["Mongoose", "Typeorm", "Sequalize", "Eloquent", "Prisma"],
+  "database": {
+    "main": ["PostgreSql", "MongoDb", "Redis"],
+    "orm": ["Mongoose", "Typeorm", "Sequalize", "Eloquent", "Prisma"]
   },
-  architectureAndPatterns: [
+  "architectureAndPatterns": [
     "DDD (Domain Driven Design)",
     "Hexagonal Architecture",
     "Microservices",
@@ -58,7 +58,7 @@ const rrhox = {
     "OOP",
     "Atomic Design",
     "S.O.L.I.D",
-    "CQRS",
-  ],
-};
+    "CQRS"
+  ]
+}
 ```
