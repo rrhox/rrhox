@@ -49,15 +49,14 @@ Hello there 👋🚀
     "main": ["PostgreSql", "MongoDb", "Redis"],
     "orm": ["Mongoose", "Typeorm", "Sequalize", "Eloquent", "Prisma"]
   },
-  "architectureAndPatterns": [
+  "paradigms":["OOP", "S.O.L.I.D", "Functional programming"],
+  "architectures": [
     "DDD (Domain Driven Design)",
     "Hexagonal Architecture",
+    "Onion Architecture",
     "Microservices",
     "Event-driven",
-    "Functional programming",
-    "OOP",
     "Atomic Design",
-    "S.O.L.I.D",
     "CQRS"
   ]
 }
